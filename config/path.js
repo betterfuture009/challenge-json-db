@@ -1,0 +1,1 @@
+module.exports.FILES_PATH = __dirname + '/../files/'
